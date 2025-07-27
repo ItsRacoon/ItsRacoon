@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vishesh Kumar
 
-### Frontend Developer | React Enthusiast | Problem Solver
+### Full Stack Developer | AI/ML Enthusiast | Android Developer
 
 Welcome to my GitHub profile! I'm a passionate frontend developer from India who loves creating intuitive and dynamic web experiences. I specialize in React development and enjoy tackling complex problems with clean, efficient code.
 
