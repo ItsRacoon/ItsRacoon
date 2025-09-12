@@ -112,29 +112,6 @@ Welcome to my digital playground! I'm a versatile developer from India who thriv
 
 ---
 
-## 🌟 Featured Projects & Specializations
-
-<div align="center">
-
-### 🎯 **AI-Powered Solutions**
-```
-🤖 Machine Learning Models    🧠 Deep Learning Applications
-📊 Data Analytics Dashboards  🔍 Computer Vision Projects
-```
-
-### 🌐 **Full Stack Applications**
-```
-⚛️ React + Spring Boot       📱 Flutter Mobile Apps
-🚀 RESTful API Development    ☁️ Cloud-Native Solutions
-```
-
-### 📈 **Data-Driven Projects**
-```
-📊 Business Intelligence      📋 Interactive Dashboards
-🔄 ETL Pipelines             📈 Predictive Analytics
-```
-
-</div>
 
 <div align="center">
   <a href="https://new-portfolio-porq.onrender.com/" target="_blank">
